@@ -1,2 +1,2 @@
 # playlist_to_txt
-Download and use this bitch!!
+Download and use playlist_to_txt.exe!!
